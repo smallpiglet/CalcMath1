@@ -233,5 +233,7 @@ int main()
 
 	system("Pause");
 
+	cout << "ТЕСТ" << endl;
+
 	return 0;
 }
