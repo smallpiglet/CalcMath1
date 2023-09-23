@@ -233,7 +233,7 @@ int main()
 
 	system("Pause");
 
-	cout << "ТЕСТ" << endl;
+	cout << "ТЕСТ МАКС 1 залив" << endl;
 
 	return 0;
 }
